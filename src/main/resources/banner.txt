@@ -1,0 +1,1 @@
+banner txt huhx linux. bright white ${AnsiBackground.BRIGHT_WHITE}
